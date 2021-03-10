@@ -1,0 +1,33 @@
+html {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.slogan {
+    color: white;
+}
+
+h1.slogan {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2.slogan {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+nav {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.copyright {
+    text-align: right;
+}
+
+.background-text {
+    color: gray;
+    font-size: 21px;
+}
